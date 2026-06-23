@@ -127,4 +127,4 @@ Each sub-menu lets you perform all CRUD operations interactively.
 ## Author
 
 Amriddin – OSTİM Technical University  
-Course: IYU 228 – Workplace Application Course
+Course: WAP 228 – Workplace Application Course
