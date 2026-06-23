@@ -1,0 +1,4 @@
+# No external dependencies required!
+# Python standard library only (sqlite3, unittest, os, sys, datetime)
+# Optional: install pytest for alternative test runner
+# pip install pytest
